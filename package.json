@@ -1,0 +1,17 @@
+{
+  "name": "gcf_hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  }
+}
